@@ -1,0 +1,28 @@
+.city {
+    color: rgb(46, 24, 99);
+    font-family: 'Times New Roman', Times, serif;
+}
+/* # represents an ID selector in CSS */
+#London{
+    font-size: 20px;
+    font-weight: bold;
+    background-color: rgb(255, 194, 231);
+}
+#Paris{
+    font-size: 20px;
+    font-weight: bold;
+    background-color: rgb(255, 194, 231);
+}
+#Tokyo{
+    font-size: 20px;
+    font-weight: bold;
+    background-color: rgb(255, 194, 231);
+}
+body{
+    background-color: rgba(217, 206, 243, 0.836);
+}
+.city-image{
+     
+  border-radius: 50%;
+
+}

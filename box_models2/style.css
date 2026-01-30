@@ -1,0 +1,21 @@
+
+
+.card{
+  background-color: rgb(73, 127, 173);
+  height: 300px;
+  padding-top: 2px;
+  border: 10px solid white;
+  width: 400px;
+  text-align: center;
+  font-size:xx-large
+}
+#Art{
+    background-color: rgb(196, 160, 136);
+    font-family: Georgia, 'Times New Roman', Times, serif;color: rgb(90, 25, 25);
+}
+
+#foods{
+    background-color: rgb(214, 180, 138);
+    height: 600px;
+    font-size: 65px;
+}
