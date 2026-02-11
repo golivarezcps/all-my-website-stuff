@@ -1,0 +1,44 @@
+body {
+    margin: 0px;
+    background-color: #bed0e6;
+}
+
+main {
+    margin-left: 20px;
+}
+
+h1 {
+   text-align: center; color: #1b0735; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: 
+    #8797af;
+}
+
+.navbar li{
+    float: right;
+    
+}
+
+.navbar a {
+   display: block;
+   color: rgb(18, 15, 49);
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+   text-align: center;
+   padding: 30px;
+   text-decoration: none;
+    font-size: large;
+    font-weight: bold;
+}
+
+.navbar a:hover {
+    background-color: #a7adc6;
+
+}
+
+<div id="Box Form">
