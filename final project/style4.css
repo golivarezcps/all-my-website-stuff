@@ -25,7 +25,7 @@
 
     .intro h2 {
       font-size: 2rem;
-      color: #333;
+      color: #220738;
       margin-bottom: 0.5rem;
     }
 
@@ -95,9 +95,31 @@
 
     .card-content a:hover,
     .card-content a:focus {
-      color: #1c5db8;
+      color:  #8797af;
       outline: none;
     }
 
+ .button-container {
+      display: flex;
+      justify-content: center; 
+      margin-top: 50px; 
+    }
 
+    .view-gallery-button {
+      background-color:  #8797af;
+      color: white;
+      border: none;
+      padding: 12px 24px;
+      font-size: 16px;
+      border-radius: 5px;
+      text-decoration: none; 
+      display: inline-block;
+      transition: background-color 0.3s ease;
+    }
+
+   
+    .view-gallery-button:hover {
+      background-color:  #8797af;
+    }
+ 
   
